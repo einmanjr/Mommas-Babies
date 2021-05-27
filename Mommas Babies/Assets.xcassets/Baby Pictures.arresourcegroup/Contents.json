@@ -4,6 +4,11 @@
     "version" : 1
   },
   "resources" : [
-
+    {
+      "filename" : "Briar Ducks 1.arreferenceimage"
+    },
+    {
+      "filename" : "Little Mermaid Ride.arreferenceimage"
+    }
   ]
 }

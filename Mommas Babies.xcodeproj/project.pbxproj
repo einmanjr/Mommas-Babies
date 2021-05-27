@@ -7,15 +7,67 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		250D1534266049D4007148B1 /* Briar Sleepy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D1533266049D4007148B1 /* Briar Sleepy.mp4 */; };
+		250D154D26604BD4007148B1 /* Brair Safari Ride.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153526604BD2007148B1 /* Brair Safari Ride.mp4 */; };
+		250D154E26604BD4007148B1 /* Braxton Laughing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153626604BD2007148B1 /* Braxton Laughing.mp4 */; };
+		250D154F26604BD4007148B1 /* Briar Drive Car.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153726604BD2007148B1 /* Briar Drive Car.mp4 */; };
+		250D155026604BD4007148B1 /* Briar Dinosaur Ride Dance 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153826604BD2007148B1 /* Briar Dinosaur Ride Dance 1.mp4 */; };
+		250D155126604BD4007148B1 /* Giraffe_.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153926604BD2007148B1 /* Giraffe_.mp4 */; };
+		250D155226604BD4007148B1 /* Briar Ducks 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153A26604BD2007148B1 /* Briar Ducks 2.mp4 */; };
+		250D155326604BD4007148B1 /* Briar Hotel Room.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153B26604BD2007148B1 /* Briar Hotel Room.mp4 */; };
+		250D155426604BD4007148B1 /* Lilly Painting Cup.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153C26604BD2007148B1 /* Lilly Painting Cup.mp4 */; };
+		250D155526604BD4007148B1 /* Lilly Beast Dinner.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153D26604BD2007148B1 /* Lilly Beast Dinner.mp4 */; };
+		250D155626604BD4007148B1 /* Briar Parade.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153E26604BD2007148B1 /* Briar Parade.mp4 */; };
+		250D155726604BD4007148B1 /* Frozen Play.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D153F26604BD3007148B1 /* Frozen Play.mp4 */; };
+		250D155826604BD4007148B1 /* Sleepy Briar 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154026604BD3007148B1 /* Sleepy Briar 2.mp4 */; };
+		250D155926604BD4007148B1 /* Braxton Safari Ride.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154126604BD3007148B1 /* Braxton Safari Ride.mp4 */; };
+		250D155A26604BD4007148B1 /* Briar Dinosaur Ride.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154226604BD3007148B1 /* Briar Dinosaur Ride.mp4 */; };
+		250D155B26604BD4007148B1 /* Briar Fish Tank.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154326604BD3007148B1 /* Briar Fish Tank.mp4 */; };
+		250D155C26604BD4007148B1 /* Briar Dinosaur Ride 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154426604BD3007148B1 /* Briar Dinosaur Ride 2.mp4 */; };
+		250D155D26604BD4007148B1 /* Big Monkey.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154526604BD3007148B1 /* Big Monkey.mp4 */; };
+		250D155E26604BD4007148B1 /* Flutter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154626604BD3007148B1 /* Flutter.mp4 */; };
+		250D155F26604BD4007148B1 /* Briar Break Toy Car.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154726604BD3007148B1 /* Briar Break Toy Car.mp4 */; };
+		250D156026604BD4007148B1 /* Lilly_Briar Bubbles.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154826604BD3007148B1 /* Lilly_Briar Bubbles.mp4 */; };
+		250D156126604BD4007148B1 /* Weird 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154926604BD3007148B1 /* Weird 1.mp4 */; };
+		250D156226604BD4007148B1 /* Weird 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154A26604BD3007148B1 /* Weird 2.mp4 */; };
+		250D156326604BD4007148B1 /* Jennifer Feed Bird.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154B26604BD4007148B1 /* Jennifer Feed Bird.mp4 */; };
+		250D156426604BD4007148B1 /* Safari Rhinoceros.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 250D154C26604BD4007148B1 /* Safari Rhinoceros.mp4 */; };
 		250E0A21265DBA61001646C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250E0A20265DBA61001646C8 /* AppDelegate.swift */; };
 		250E0A23265DBA61001646C8 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 250E0A22265DBA61001646C8 /* art.scnassets */; };
 		250E0A25265DBA61001646C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250E0A24265DBA61001646C8 /* ViewController.swift */; };
 		250E0A28265DBA61001646C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 250E0A26265DBA61001646C8 /* Main.storyboard */; };
 		250E0A2A265DBA63001646C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 250E0A29265DBA63001646C8 /* Assets.xcassets */; };
 		250E0A2D265DBA63001646C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 250E0A2B265DBA63001646C8 /* LaunchScreen.storyboard */; };
+		2517269A265F4D9500663892 /* Briar Ducks 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 25172699265F4D9500663892 /* Briar Ducks 1.mp4 */; };
+		25359956265FDBE80013ADD0 /* Little Mermaid Ride.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 25359955265FDBE80013ADD0 /* Little Mermaid Ride.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		250D1533266049D4007148B1 /* Briar Sleepy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Sleepy.mp4"; sourceTree = "<group>"; };
+		250D153526604BD2007148B1 /* Brair Safari Ride.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Brair Safari Ride.mp4"; sourceTree = "<group>"; };
+		250D153626604BD2007148B1 /* Braxton Laughing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Braxton Laughing.mp4"; sourceTree = "<group>"; };
+		250D153726604BD2007148B1 /* Briar Drive Car.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Drive Car.mp4"; sourceTree = "<group>"; };
+		250D153826604BD2007148B1 /* Briar Dinosaur Ride Dance 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Dinosaur Ride Dance 1.mp4"; sourceTree = "<group>"; };
+		250D153926604BD2007148B1 /* Giraffe_.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Giraffe_.mp4; sourceTree = "<group>"; };
+		250D153A26604BD2007148B1 /* Briar Ducks 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Ducks 2.mp4"; sourceTree = "<group>"; };
+		250D153B26604BD2007148B1 /* Briar Hotel Room.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Hotel Room.mp4"; sourceTree = "<group>"; };
+		250D153C26604BD2007148B1 /* Lilly Painting Cup.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lilly Painting Cup.mp4"; sourceTree = "<group>"; };
+		250D153D26604BD2007148B1 /* Lilly Beast Dinner.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lilly Beast Dinner.mp4"; sourceTree = "<group>"; };
+		250D153E26604BD2007148B1 /* Briar Parade.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Parade.mp4"; sourceTree = "<group>"; };
+		250D153F26604BD3007148B1 /* Frozen Play.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Frozen Play.mp4"; sourceTree = "<group>"; };
+		250D154026604BD3007148B1 /* Sleepy Briar 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sleepy Briar 2.mp4"; sourceTree = "<group>"; };
+		250D154126604BD3007148B1 /* Braxton Safari Ride.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Braxton Safari Ride.mp4"; sourceTree = "<group>"; };
+		250D154226604BD3007148B1 /* Briar Dinosaur Ride.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Dinosaur Ride.mp4"; sourceTree = "<group>"; };
+		250D154326604BD3007148B1 /* Briar Fish Tank.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Fish Tank.mp4"; sourceTree = "<group>"; };
+		250D154426604BD3007148B1 /* Briar Dinosaur Ride 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Dinosaur Ride 2.mp4"; sourceTree = "<group>"; };
+		250D154526604BD3007148B1 /* Big Monkey.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Big Monkey.mp4"; sourceTree = "<group>"; };
+		250D154626604BD3007148B1 /* Flutter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Flutter.mp4; sourceTree = "<group>"; };
+		250D154726604BD3007148B1 /* Briar Break Toy Car.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Break Toy Car.mp4"; sourceTree = "<group>"; };
+		250D154826604BD3007148B1 /* Lilly_Briar Bubbles.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lilly_Briar Bubbles.mp4"; sourceTree = "<group>"; };
+		250D154926604BD3007148B1 /* Weird 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Weird 1.mp4"; sourceTree = "<group>"; };
+		250D154A26604BD3007148B1 /* Weird 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Weird 2.mp4"; sourceTree = "<group>"; };
+		250D154B26604BD4007148B1 /* Jennifer Feed Bird.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jennifer Feed Bird.mp4"; sourceTree = "<group>"; };
+		250D154C26604BD4007148B1 /* Safari Rhinoceros.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Safari Rhinoceros.mp4"; sourceTree = "<group>"; };
 		250E0A1D265DBA61001646C8 /* Mommas Babies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mommas Babies.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		250E0A20265DBA61001646C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		250E0A22265DBA61001646C8 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -24,6 +76,8 @@
 		250E0A29265DBA63001646C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		250E0A2C265DBA63001646C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		250E0A2E265DBA63001646C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25172699265F4D9500663892 /* Briar Ducks 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Briar Ducks 1.mp4"; sourceTree = "<group>"; };
+		25359955265FDBE80013ADD0 /* Little Mermaid Ride.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Little Mermaid Ride.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +125,33 @@
 		250E0A34265DBADB001646C8 /* BabyVideos */ = {
 			isa = PBXGroup;
 			children = (
+				250D154526604BD3007148B1 /* Big Monkey.mp4 */,
+				250D153526604BD2007148B1 /* Brair Safari Ride.mp4 */,
+				250D153626604BD2007148B1 /* Braxton Laughing.mp4 */,
+				250D154126604BD3007148B1 /* Braxton Safari Ride.mp4 */,
+				250D154726604BD3007148B1 /* Briar Break Toy Car.mp4 */,
+				250D154426604BD3007148B1 /* Briar Dinosaur Ride 2.mp4 */,
+				250D153826604BD2007148B1 /* Briar Dinosaur Ride Dance 1.mp4 */,
+				250D154226604BD3007148B1 /* Briar Dinosaur Ride.mp4 */,
+				250D153726604BD2007148B1 /* Briar Drive Car.mp4 */,
+				250D153A26604BD2007148B1 /* Briar Ducks 2.mp4 */,
+				250D154326604BD3007148B1 /* Briar Fish Tank.mp4 */,
+				250D153B26604BD2007148B1 /* Briar Hotel Room.mp4 */,
+				250D153E26604BD2007148B1 /* Briar Parade.mp4 */,
+				250D154626604BD3007148B1 /* Flutter.mp4 */,
+				250D153F26604BD3007148B1 /* Frozen Play.mp4 */,
+				250D153926604BD2007148B1 /* Giraffe_.mp4 */,
+				250D154B26604BD4007148B1 /* Jennifer Feed Bird.mp4 */,
+				250D153D26604BD2007148B1 /* Lilly Beast Dinner.mp4 */,
+				250D153C26604BD2007148B1 /* Lilly Painting Cup.mp4 */,
+				250D154826604BD3007148B1 /* Lilly_Briar Bubbles.mp4 */,
+				250D154C26604BD4007148B1 /* Safari Rhinoceros.mp4 */,
+				250D154026604BD3007148B1 /* Sleepy Briar 2.mp4 */,
+				250D154926604BD3007148B1 /* Weird 1.mp4 */,
+				250D154A26604BD3007148B1 /* Weird 2.mp4 */,
+				250D1533266049D4007148B1 /* Briar Sleepy.mp4 */,
+				25172699265F4D9500663892 /* Briar Ducks 1.mp4 */,
+				25359955265FDBE80013ADD0 /* Little Mermaid Ride.mp4 */,
 			);
 			path = BabyVideos;
 			sourceTree = "<group>";
@@ -132,10 +213,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				250D155626604BD4007148B1 /* Briar Parade.mp4 in Resources */,
+				250D154E26604BD4007148B1 /* Braxton Laughing.mp4 in Resources */,
 				250E0A23265DBA61001646C8 /* art.scnassets in Resources */,
+				250D154F26604BD4007148B1 /* Briar Drive Car.mp4 in Resources */,
+				250D155B26604BD4007148B1 /* Briar Fish Tank.mp4 in Resources */,
+				25359956265FDBE80013ADD0 /* Little Mermaid Ride.mp4 in Resources */,
+				250D1534266049D4007148B1 /* Briar Sleepy.mp4 in Resources */,
 				250E0A2D265DBA63001646C8 /* LaunchScreen.storyboard in Resources */,
+				2517269A265F4D9500663892 /* Briar Ducks 1.mp4 in Resources */,
+				250D155F26604BD4007148B1 /* Briar Break Toy Car.mp4 in Resources */,
+				250D156126604BD4007148B1 /* Weird 1.mp4 in Resources */,
+				250D155826604BD4007148B1 /* Sleepy Briar 2.mp4 in Resources */,
+				250D155D26604BD4007148B1 /* Big Monkey.mp4 in Resources */,
 				250E0A2A265DBA63001646C8 /* Assets.xcassets in Resources */,
+				250D155426604BD4007148B1 /* Lilly Painting Cup.mp4 in Resources */,
+				250D154D26604BD4007148B1 /* Brair Safari Ride.mp4 in Resources */,
+				250D156026604BD4007148B1 /* Lilly_Briar Bubbles.mp4 in Resources */,
+				250D155526604BD4007148B1 /* Lilly Beast Dinner.mp4 in Resources */,
+				250D155C26604BD4007148B1 /* Briar Dinosaur Ride 2.mp4 in Resources */,
 				250E0A28265DBA61001646C8 /* Main.storyboard in Resources */,
+				250D155326604BD4007148B1 /* Briar Hotel Room.mp4 in Resources */,
+				250D155A26604BD4007148B1 /* Briar Dinosaur Ride.mp4 in Resources */,
+				250D156226604BD4007148B1 /* Weird 2.mp4 in Resources */,
+				250D156326604BD4007148B1 /* Jennifer Feed Bird.mp4 in Resources */,
+				250D155126604BD4007148B1 /* Giraffe_.mp4 in Resources */,
+				250D156426604BD4007148B1 /* Safari Rhinoceros.mp4 in Resources */,
+				250D155E26604BD4007148B1 /* Flutter.mp4 in Resources */,
+				250D155026604BD4007148B1 /* Briar Dinosaur Ride Dance 1.mp4 in Resources */,
+				250D155726604BD4007148B1 /* Frozen Play.mp4 in Resources */,
+				250D155926604BD4007148B1 /* Braxton Safari Ride.mp4 in Resources */,
+				250D155226604BD4007148B1 /* Briar Ducks 2.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
